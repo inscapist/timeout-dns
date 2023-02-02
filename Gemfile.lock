@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ruby2ruby (2.5.0)
+      ruby_parser (~> 3.1)
+      sexp_processor (~> 4.6)
+    ruby_parser (3.19.2)
+      sexp_processor (~> 4.16)
+    rubyfmt (0.0.1)
+      ruby2ruby (~> 2.0)
+    sexp_processor (4.16.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rubyfmt (~> 0.0.1)
+
+BUNDLED WITH
+   2.3.26
